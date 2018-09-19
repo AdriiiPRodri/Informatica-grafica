@@ -1,0 +1,40 @@
+Adrián Jesús Peña Rodríguez             3º C2
+
+Uso del programa:
+
+Tecla p:  Visualizar en modo puntos
+Tecla l:  Visualizar en modo líneas/aristas
+Tecla f:  Visualizar en modo relleno
+Tecla c:  Visualizar en modo ajedrez
+Tecla m:  Unión de los modos relleno, lineas y puntos
+Tecla 1:  Activar tetraedo
+Tecla 2:  Activar cubo
+Tecla 3:  Activar octaedro
+Tecla 4:  Activar archivo PLY pasado por argumento
+Tecla 5:  Activar archivo por revolución (pasado o no por argumento, ahí uno por defecto)
+Tecla 6:  Activar objeto por revolución del examen de la práctica 2
+Tecla 7:  Activar modelo jerarquico
+Tecla 0:  Activar tablero con textura
+Tecla 8:  Rotar textura
+Tecla 9:  Mover textura
+Tecla t:  Activar/desactivar tapas del objeto por revolución
+Tecla z:  Modo sombreado
+Tecla +:  Aumentar número de perfiles del objeto de revolución
+Tecla -:  Disminuir número de perfiles del objeto de revolución
+Tecla *:  Grados libertad modelo jerarquico
+Tecla i:  Activar/Desactivar panel de luces(por defecto están apagadas)
+Tecla F1: Encender/Rotar(Eje X, se puede modificar, es por defecto) luz 0
+Tecla F2: Encender/Rotar(Eje Y, se puede modificar, es por defecto) luz 1
+Tecla F5: Activar/Desactivar material rojo
+Tecla F6: Activar/Desactivar material verde
+Tecla F7: Activar/Desactivar material azul
+
+Tecla w:  Avanzar camara
+Tecla s:  Retroceder camara
+Tecla a:  Mover camara a la izquierda
+Tecla d:  Mover camara a la derecha
+Tecla r:  Restaurar camara
+
+Tecla F8: Camara BASICA
+Tecla F9: Camara Perfil
+Tecla F10: Camara ortogonal
